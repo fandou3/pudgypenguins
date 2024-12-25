@@ -5,8 +5,8 @@
    - 每行格式为：`备注----私钥`
    - 示例：
    ```
-   钱包1----8d704dfcf6fc479f7cf26b716230bf6c24353d5621cfb654d841021b3dff77f8
-   钱包2----9e704dfcf6fc479f7cf26b716230bf6c24353d5621cfb654d841021b3dff77f9
+   xxxxxxxxxxxxxxxxxx
+   xxxxxxxxxxxxxxxxxx
    ```
 
 2. 配置线程数
